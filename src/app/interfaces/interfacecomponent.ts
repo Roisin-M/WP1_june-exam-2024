@@ -1,4 +1,4 @@
-export interface CompanyDetails {
+export interface companyDetails {
     createdAt:string,
     companyname:string,
     streetaddress:string,
