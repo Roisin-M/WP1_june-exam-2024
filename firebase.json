@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/june-exam-2024/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
